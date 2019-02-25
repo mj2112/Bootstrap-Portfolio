@@ -51,7 +51,7 @@ footer {
 }
 
 #headerwidth {
-    width: 100%;
+    max-width: 960px;
 }
 
 #logo {
@@ -108,6 +108,10 @@ nav a:first-child {
     margin: 0 0 40px 0;
     max-width: 960px;
     border: 1px solid #ddd;
+}
+
+.main-section h1 {
+    color: #4aaaa5;
 }
 
 .work {
