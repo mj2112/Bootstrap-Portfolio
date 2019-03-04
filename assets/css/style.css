@@ -160,7 +160,8 @@ nav a:first-child {
     }
     nav {
         float: right !important;
-        width: 50% !important;
+        width: 57% !important;
         text-align: right !important;
+        
     }
 }
